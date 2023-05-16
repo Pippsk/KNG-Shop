@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/KNG-Shop/static/css/main.587bdd04.css",
+    "main.js": "/KNG-Shop/static/js/main.cbaa9d2c.js",
+    "static/media/deck-skateboard-flip-hkd-black-stained-825inchjpg-2023.image.700x700.jpg": "/KNG-Shop/static/media/deck-skateboard-flip-hkd-black-stained-825inchjpg-2023.image.700x700.4e09849536ca3d87d3a1.jpg",
+    "static/media/deck-skateboard-flip-.jpg": "/KNG-Shop/static/media/deck-skateboard-flip-.4dec3da21578285fe8a0.jpg",
+    "static/media/creature.jpg": "/KNG-Shop/static/media/creature.1345b7937940d949438f.jpg",
+    "static/media/Santa.jpg": "/KNG-Shop/static/media/Santa.e41e2f1497da52487838.jpg",
+    "static/media/Jart2.jpg": "/KNG-Shop/static/media/Jart2.b58e323708b2307591ac.jpg",
+    "static/media/planB.jpg": "/KNG-Shop/static/media/planB.40d0d7e9eec2773955d8.jpg",
+    "static/media/SkateMafia.jpg": "/KNG-Shop/static/media/SkateMafia.e2ba89c2c1871e68967c.jpg",
+    "static/media/Gravette.jpg": "/KNG-Shop/static/media/Gravette.5fcdd51d1df91442fc53.jpg",
+    "static/media/Jart.jpg": "/KNG-Shop/static/media/Jart.9beb16008ce8d659cb02.jpg",
+    "static/media/jaws.jpg": "/KNG-Shop/static/media/jaws.db3e673dccecf82b0948.jpg",
+    "static/media/scr-skd-2332_2jpg-2021.image.700x700.jpg": "/KNG-Shop/static/media/scr-skd-2332_2jpg-2021.image.700x700.4659d8b6695866e39326.jpg",
+    "static/media/birdhouse.jpg": "/KNG-Shop/static/media/birdhouse.587b01a30995e8224719.jpg",
+    "static/media/crown.svg": "/KNG-Shop/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/KNG-Shop/index.html",
+    "main.587bdd04.css.map": "/KNG-Shop/static/css/main.587bdd04.css.map",
+    "main.cbaa9d2c.js.map": "/KNG-Shop/static/js/main.cbaa9d2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.587bdd04.css",
+    "static/js/main.cbaa9d2c.js"
+  ]
+}
